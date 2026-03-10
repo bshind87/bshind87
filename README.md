@@ -1,4 +1,5 @@
-## Bhalchandra Shinde (ML Engineer)
+## Hi I am Bhalchandra!
+### 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗚𝗿𝗮𝗱𝘂𝗮𝘁𝗲 𝗦𝘁𝘂𝗱𝗲𝗻𝘁 | 𝗗𝗮𝘁𝗮 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 → 𝗔𝗽𝗽𝗹𝗶𝗲𝗱 𝗔𝗜
 
 <!--
 **bshind87/bshind87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗚𝗿𝗮𝗱𝘂𝗮𝘁𝗲 𝗦𝘁𝘂𝗱𝗲𝗻𝘁 | 𝗗𝗮𝘁𝗮 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 → 𝗔𝗽𝗽𝗹𝗶𝗲𝗱 𝗔𝗜
 
 I am a Machine Learning graduate student pursuing an 𝗠.𝗦. 𝗶𝗻 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝗮𝘁 𝗡𝗼𝗿𝘁𝗵𝗲𝗮𝘀𝘁𝗲𝗿𝗻 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 (𝗦𝗶𝗹𝗶𝗰𝗼𝗻 𝗩𝗮𝗹𝗹𝗲𝘆), with 𝟭𝟰+ 𝘆𝗲𝗮𝗿𝘀 𝗼𝗳 𝗶𝗻𝗱𝘂𝘀𝘁𝗿𝘆 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 building ETL/data pipelines and analytics platforms in banking, risk and enterprise data systems.
 
