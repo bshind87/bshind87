@@ -1,43 +1,18 @@
-## Hi I am Bhalchandra!
-### 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗚𝗿𝗮𝗱𝘂𝗮𝘁𝗲 𝗦𝘁𝘂𝗱𝗲𝗻𝘁 | 𝗗𝗮𝘁𝗮 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 → 𝗔𝗽𝗽𝗹𝗶𝗲𝗱 𝗔𝗜
+# 💫 About Me:
+I am a Machine Learning graduate student pursuing an 𝗠.𝗦. 𝗶𝗻 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝗮𝘁 𝗡𝗼𝗿𝘁𝗵𝗲𝗮𝘀𝘁𝗲𝗿𝗻 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 (𝗦𝗶𝗹𝗶𝗰𝗼𝗻 𝗩𝗮𝗹𝗹𝗲𝘆), with 𝟭𝟰+ 𝘆𝗲𝗮𝗿𝘀 𝗼𝗳 𝗶𝗻𝗱𝘂𝘀𝘁𝗿𝘆 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 building ETL/data pipelines and analytics platforms in banking, risk and enterprise data systems.<br><br>After years of designing and optimizing data infrastructure, I am now focused on 𝗮𝗽𝗽𝗹𝗶𝗲𝗱 𝗺𝗮𝗰𝗵𝗶𝗻𝗲 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴, where high-quality data, feature engineering, and model evaluation meet real-world impact.<br><br>𝗪𝗵𝗮𝘁 𝗜’𝗺 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻 𝗻𝗼𝘄<br><br>Coore ML: Regression(Linear/Logistic), Classification(Random Forest, XGBoost), Clustering, Dim Reduction (PCA)<br>ML Lifecycle: Feature Engineering, Cross-Validation, Model Evaluation (Precision-Recall, ROC-AUC, F1-score, RMSE, MAE, R2), Hyperparameter Optimization.<br>Libraries: Python (Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, TensorFlow, Pytorch, Keras)<br>𝗥𝗲𝗰𝗲𝗻𝘁 𝗔𝗰𝗮𝗱𝗲𝗺𝗶𝗰 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 𝘉𝘶𝘪𝘭𝘵 𝘢 'Huffman coding–based compression system' using min-heaps and analyzed time/space complexity. Built a reader app with chunk based decompression 𝘐𝘮𝘱𝘭𝘦𝘮𝘦𝘯𝘵𝘦𝘥 'multivariate Piecewise Linear Regression (PWLR)' and compared it with Random Forest and polynomial models on the Auto MPG dataset 𝘋𝘦𝘴𝘪𝘨𝘯𝘦𝘥 𝘢 'Neural Architecture Search pipeline' to automatically discover optimal CNN architectures for MNIST classification<br><br>𝗪𝗵𝘆 𝗺𝘆 𝗯𝗮𝗰𝗸𝗴𝗿𝗼𝘂𝗻𝗱 𝗶𝘀 𝗱𝗶𝗳𝗳𝗲𝗿𝗲𝗻𝘁 My industry experience in 𝗱𝗮𝘁𝗮 𝗾𝘂𝗮𝗹𝗶𝘁𝘆, 𝘀𝗰𝗮𝗹𝗮𝗯𝗶𝗹𝗶𝘁𝘆 𝗮𝗻𝗱 𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 𝗽𝗶𝗽𝗲𝗹𝗶𝗻𝗲𝘀 gives me a strong edge in applied ML. I understand not just how models work, but how data flows, breaks, and scales in real systems.<br><br>𝗔𝗰𝘁𝗶𝘃𝗲𝗹𝘆 𝘀𝗲𝗲𝗸𝗶𝗻𝗴 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 / 𝗔𝗽𝗽𝗹𝗶𝗲𝗱 𝗔𝗜 / 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗜𝗻𝘁𝗲𝗿𝗻𝘀𝗵𝗶𝗽 𝗼𝗽𝗽𝗼𝗿𝘁𝘂𝗻𝗶𝘁𝗶𝗲𝘀 (𝗦𝘂𝗺𝗺𝗲𝗿 and Fall 𝟮𝟬𝟮𝟲) where I can contribute hands-on to model development, experimentation, and data-driven problem solving.<br><br>𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸 Python | NumPy | Pandas | scikit-learn | Seaborn | Matplotlib | TensorFlow | Git | SQL | Jupyter | ML Model Evaluation<br><br>Always open to connecting with recruiters, engineers, and fellow ML practitioners.<br>
 
-<!--
-**bshind87/bshind87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhalchandrashinde) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bshind87@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Teradata](https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=teradata&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=bshind87&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=bshind87&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bshind87&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-I am a Machine Learning graduate student pursuing an 𝗠.𝗦. 𝗶𝗻 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝗮𝘁 𝗡𝗼𝗿𝘁𝗵𝗲𝗮𝘀𝘁𝗲𝗿𝗻 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 (𝗦𝗶𝗹𝗶𝗰𝗼𝗻 𝗩𝗮𝗹𝗹𝗲𝘆), with 𝟭𝟰+ 𝘆𝗲𝗮𝗿𝘀 𝗼𝗳 𝗶𝗻𝗱𝘂𝘀𝘁𝗿𝘆 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 building ETL/data pipelines and analytics platforms in banking, risk and enterprise data systems.
+---
+[![](https://visitcount.itsvg.in/api?id=bshind87&icon=1&color=1)](https://visitcount.itsvg.in)
 
-After years of designing and optimizing data infrastructure, I am now focused on 𝗮𝗽𝗽𝗹𝗶𝗲𝗱 𝗺𝗮𝗰𝗵𝗶𝗻𝗲 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴, where high-quality data, feature engineering, and model evaluation meet real-world impact.
-
-𝗪𝗵𝗮𝘁 𝗜’𝗺 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻 𝗻𝗼𝘄
-* Coore ML: Regression(Linear/Logistic), Classification(Random Forest, XGBoost), Clustering, Dim Reduction (PCA)
-* ML Lifecycle: Feature Engineering, Cross-Validation, Model Evaluation (Precision-Recall, ROC-AUC, F1-score, RMSE, MAE, R2),
-Hyperparameter Optimization.
-* Libraries: Python (Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, TensorFlow, Pytorch, Keras)
-
-𝗥𝗲𝗰𝗲𝗻𝘁 𝗔𝗰𝗮𝗱𝗲𝗺𝗶𝗰 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
-𝘉𝘶𝘪𝘭𝘵 𝘢 'Huffman coding–based compression system' using min-heaps and analyzed time/space complexity. Built a reader app with chunk based decompression
-𝘐𝘮𝘱𝘭𝘦𝘮𝘦𝘯𝘵𝘦𝘥 'multivariate Piecewise Linear Regression (PWLR)' and compared it with Random Forest and polynomial models on the Auto MPG dataset
-𝘋𝘦𝘴𝘪𝘨𝘯𝘦𝘥 𝘢 'Neural Architecture Search pipeline' to automatically discover optimal CNN architectures for MNIST classification
-
-𝗪𝗵𝘆 𝗺𝘆 𝗯𝗮𝗰𝗸𝗴𝗿𝗼𝘂𝗻𝗱 𝗶𝘀 𝗱𝗶𝗳𝗳𝗲𝗿𝗲𝗻𝘁
-My industry experience in 𝗱𝗮𝘁𝗮 𝗾𝘂𝗮𝗹𝗶𝘁𝘆, 𝘀𝗰𝗮𝗹𝗮𝗯𝗶𝗹𝗶𝘁𝘆 𝗮𝗻𝗱 𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 𝗽𝗶𝗽𝗲𝗹𝗶𝗻𝗲𝘀 gives me a strong edge in applied ML. I understand not just how models work, but how data flows, breaks, and scales in real systems.
-
-𝗔𝗰𝘁𝗶𝘃𝗲𝗹𝘆 𝘀𝗲𝗲𝗸𝗶𝗻𝗴
-𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 / 𝗔𝗽𝗽𝗹𝗶𝗲𝗱 𝗔𝗜 / 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗜𝗻𝘁𝗲𝗿𝗻𝘀𝗵𝗶𝗽 𝗼𝗽𝗽𝗼𝗿𝘁𝘂𝗻𝗶𝘁𝗶𝗲𝘀 (𝗦𝘂𝗺𝗺𝗲𝗿 and Fall 𝟮𝟬𝟮𝟲) where I can contribute hands-on to model development, experimentation, and data-driven problem solving.
-
-𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
-Python | NumPy | Pandas | scikit-learn | Seaborn | Matplotlib | TensorFlow | Git | SQL | Jupyter | ML Model Evaluation
-
-Always open to connecting with recruiters, engineers, and fellow ML practitioners.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
