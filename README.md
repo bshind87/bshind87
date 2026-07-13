@@ -93,7 +93,7 @@ After years of designing and optimizing data infrastructure, I'm now focused on 
 
 ### 🎓 Education
 
-- **M.S. in Artificial Intelligence** — Northeastern University, San Jose (Expected Dec 2026)
+- **M.S. in Artificial Intelligence** — Northeastern University, San Jose (Expected Dec 2026 or May 2027)
 - **B.E. in Computer Science** — Shivaji University, India
 
 ---
