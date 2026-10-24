@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Bhalchandra Shinde 👋</h1>
+<p align="center">
+  <img src="./header.svg" alt="Hi, I'm Bhalchandra Shinde 👋" width="800" />
+</p>
 
 <h3 align="center">AI/ML Engineer · 14+ Years in Financial Data Platforms · M.S. in AI @ Northeastern University</h3>
 
